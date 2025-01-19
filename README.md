@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Aspiring Full-Stack Web Developer 💻 I’m on a journey to master both front-end and back-end development! Passionate about building websites and web Apps 🚀
+Aspiring Full-Stack Web Developer 💻 
+I’m on a journey to master both front-end and back-end development! 
+Passionate about building websites and web Apps 🚀
