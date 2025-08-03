@@ -1,4 +1,4 @@
-<p align="center">Aspiring Full-Stack Web Developer 💻 <br>I’m on a journey to master both front-end and back-end development! <br>Passionate about building websites and web Apps 🚀</p>
+<h2 align="center">Aspiring Full-Stack Web Developer 💻 <br>I’m on a journey to master both front-end and back-end development! <br>Passionate about building websites and web Apps 🚀</h2>
 
 ###
 
