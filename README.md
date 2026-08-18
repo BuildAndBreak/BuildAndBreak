@@ -1,4 +1,4 @@
-<h2 align="center">Aspiring Full-Stack Web Developer 💻 <br>I’m on a journey to master both front-end and back-end development! <br>Passionate about building websites and web Apps 🚀</h2>
+<h2 align="center">Full-Stack Web Developer 💻 <br> Passionate about building websites and web Apps 🚀</h2>
 
 ###
 
@@ -35,12 +35,6 @@
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BuildAndBreak&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
